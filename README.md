@@ -1,6 +1,6 @@
-### WEB3 QUICK DIVE with Moralis SDK
+# WEB3 QUICK DIVE with Moralis SDK
 
-# Task: Integrate web3 into a nodejs server and get the ether balance of a wallet. 
+### Task: Integrate web3 into a nodejs server and get the ether balance of a wallet. 
 
 To follow along:
 1. clone this repo to your machine 
