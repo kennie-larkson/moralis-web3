@@ -5,5 +5,6 @@
 To follow along:
 1. clone this repo to your machine 
 2. cd into the folder 
-3. run npm install
-4. use the start script npm run start
+3. create your .env file and set the variable
+4. run npm install
+5. use the start script npm run start
